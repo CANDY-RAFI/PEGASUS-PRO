@@ -843,7 +843,7 @@ It helps others find the project and motivates continued development.
 
 👨‍💻 **Author**  
 - Made with ❤️ by **thakur2309** 
-- Name: **Alok Thakur**  
+- Name: **CANDY RAFI**  
 - YouTube: [🔥 Firewall Breaker](https://www.youtube.com/@FirewallBreaker09)
 
 ---
@@ -854,7 +854,7 @@ It helps others find the project and motivates continued development.
 </a>  
 <br>  
 
-<a href="https://github.com/thakur2309?tab=repositories">
+<a href="https://github.com/CANDY-RAFI?tab=repositories">
   <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
 </a>  
 <br>  
